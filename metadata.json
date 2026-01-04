@@ -1,0 +1,8 @@
+{
+  "name": "VeriBuy AI",
+  "description": "An intelligent e-commerce platform for product verification, review analysis, and price comparison using Google Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
